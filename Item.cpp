@@ -5,16 +5,17 @@
 #include "Item.h"
 
 
-Item::Item(const std::string &name, const std::string &description, const std::map<std::string, int> &properties,
+Item::Item(const ItemTypes &type, const std::string &description, const std::map<std::string, int> &properties,
        double price)
-       : name(name),
+       : type(type),
          description(description),
          properties(properties),
          price(price) {
 }
 
-std::string Item::getName() const {
-    return name;
+
+ItemTypes Item::getItemType() const {
+    return type;
 }
 
 std::string Item::getDescription() const {

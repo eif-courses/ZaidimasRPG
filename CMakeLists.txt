@@ -22,4 +22,5 @@ add_executable(ZaidimasRPG main.cpp
         Item.h
         PlayerInfo.cpp
         PlayerInfo.h
+        Enums.h
 )

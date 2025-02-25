@@ -8,7 +8,7 @@ using namespace std;
 
 void PlayerInfo::displayItemInfo(const Item& item){
     cout << "-----------ITEM NAME-----------------" << endl;
-    cout << item.getName() << endl;
+    cout << item.getItemType() << endl;
     cout << "-------------------------------------" << endl;
     cout << "-------------DESCRIPTION-----------------" << endl;
     cout << item.getDescription() << endl;

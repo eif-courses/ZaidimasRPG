@@ -16,7 +16,7 @@
 class Inventory {
 private:
     // nullptr
-     Item items[10][10] = {};
+     Item items[10][10];
 public:
     void addItem(Item item, int i, int j) {
         items[i][j] = item;

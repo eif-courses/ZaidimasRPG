@@ -6,15 +6,15 @@
 #define ITEM_H
 #include <iostream>
 #include <map>
-
+#include "Enums.h"
 class Item {
 public:
-    Item(const std::string &name,
+    Item(const ItemTypes& type,
          const std::string &description,
          const std::map<std::string, int> &properties,
          double price);
 
-     [[nodiscard]] std::string getName() const;
+    ItemTypes getItemType() const;
 
      [[nodiscard]] std::string getDescription() const;
 
@@ -23,7 +23,7 @@ public:
      [[nodiscard]] double getPrice() const;
 
 private:
-    std::string name;
+    ItemTypes type;
     std::string description;
     std::map<std::string, int> properties; // Key,value , Defense, 100
     double price;
