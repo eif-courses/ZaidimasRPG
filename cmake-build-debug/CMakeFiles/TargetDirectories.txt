@@ -1,0 +1,3 @@
+C:/Users/mgzeg/CLionProjects/ZaidimasRPG/cmake-build-debug/CMakeFiles/ZaidimasRPG.dir
+C:/Users/mgzeg/CLionProjects/ZaidimasRPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mgzeg/CLionProjects/ZaidimasRPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

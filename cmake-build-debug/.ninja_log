@@ -1,0 +1,27 @@
+# ninja log v6
+5	41	7616722743119207	CMakeFiles/ZaidimasRPG.dir/MapGenerator.cpp.obj	890c1b14b125e66f
+16	81	7616748006956586	CMakeFiles/ZaidimasRPG.dir/Inventory.cpp.obj	a5165d0ea9b2ecef
+3	381	7616757908140300	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+381	531	7616757911915146	ZaidimasRPG.exe	77d7b40a7e26f84e
+3	323	7616738632657602	CMakeFiles/ZaidimasRPG.dir/Player.cpp.obj	a225305dcf61f938
+28	85	7616748007066735	CMakeFiles/ZaidimasRPG.dir/Achievment.cpp.obj	d582a4e49ac01c04
+10	81	7616748006891429	CMakeFiles/ZaidimasRPG.dir/LootSystem.cpp.obj	aa7669edaac1e049
+21	82	7616748007006568	CMakeFiles/ZaidimasRPG.dir/Store.cpp.obj	a7f2ead00a06a51a
+33	94	7616748007121773	CMakeFiles/ZaidimasRPG.dir/ScoreSystem.cpp.obj	e9587234db29e57f
+9	344	7616757908200546	CMakeFiles/ZaidimasRPG.dir/Item.cpp.obj	47e9ee093b6e8d0b
+11	347	7616763923021737	CMakeFiles/ZaidimasRPG.dir/PlayerInfo.cpp.obj	ce0a9b7dba229221
+4	396	7616763922946606	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+396	548	7616763926872530	ZaidimasRPG.exe	582de3d4f5bcf7b3
+4	401	7616764600651166	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+402	557	7616764604626886	ZaidimasRPG.exe	582de3d4f5bcf7b3
+11	336	7616767384207204	CMakeFiles/ZaidimasRPG.dir/PlayerInfo.cpp.obj	ce0a9b7dba229221
+3	442	7616767384126469	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+442	612	7616767388515177	ZaidimasRPG.exe	582de3d4f5bcf7b3
+4	453	7616767469578695	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+454	595	7616767474082522	ZaidimasRPG.exe	582de3d4f5bcf7b3
+3	465	7616767549314577	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+465	625	7616767553933791	ZaidimasRPG.exe	582de3d4f5bcf7b3
+3	470	7616767670625933	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+470	617	7616767675298976	ZaidimasRPG.exe	582de3d4f5bcf7b3
+3	461	7616767820383713	CMakeFiles/ZaidimasRPG.dir/main.cpp.obj	f453f69c69a61dfc
+461	613	7616767824956043	ZaidimasRPG.exe	582de3d4f5bcf7b3
